@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# SCREENSHOT
+
+Visite http://localhost:3001/cities
+
+![](image-redmin.png)
