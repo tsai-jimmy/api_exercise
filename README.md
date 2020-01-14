@@ -28,4 +28,4 @@ Things you may want to cover:
 
 Visite http://localhost:3001/cities
 
-![](image-redmin.png)
+![](public/image-redmin.png)
